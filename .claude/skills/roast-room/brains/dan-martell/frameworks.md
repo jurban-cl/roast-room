@@ -105,7 +105,7 @@ Ordered by how central they are to the seat (founder time and people first, then
 - **What it is:** Pre-approved spending authority so problems get fixed without the founder: frontline $50, managers $500, directors $5,000, executives $50,000; spend, then tell your leader.
 - **When to use:** When approvals bottleneck on the founder.
 - **How to score:** Is there a written authority limit at each level, and do people use it?
-- **Quote:** "It’s 50 to fix it. Anybody on the team that runs into an issue with a customer in the business can spend up to $50, no questions asked, to solve a problem." [S122, undated post]
+- **Quote:** "It’s 50 to fix it. Anybody on the team that runs into an issue with a customer in the business can spend up to $50, no questions asked, to solve a problem." [S036, undated post]
 - **Sources:** 9 (S007, S014, S030, S031, S036, S037, S038, S122, S123).
 
 ## 13. The Pain Line, the Three S's, and the Complexity Ceiling
@@ -190,7 +190,7 @@ Ordered by how central they are to the seat (founder time and people first, then
 
 - **What it is:** Buy back your time; clarify strategy and offer (Value Creation Venn: what customers pay most for, what the team does best, what is most profitable); build a predictable growth engine (inbound, outbound, partners); systematize delivery (playbooks, people, platforms); install leadership and management (50 to Fix It, meeting rhythms); scale culture and vision. The 8-levels post maps tools to revenue bands, from FOCUS (one customer, one offer, one channel for a year) at $100K to $300K up to 40-40-20 time allocation at $100M+ (S123).
 - **How to score:** Do not skip ahead; a founder installing leadership before buying back time or fixing the offer is out of sequence.
-- **Quote:** "And look, don’t skip ahead because the concepts we talk about in each phase are needed to understand the one after that." [S122, undated post]
+- **Quote:** "And look, don’t skip ahead because the concepts we talk about in each phase are needed to understand the one after that." [S036, undated post]
 - **Sources:** 3 (S036, S122, S123).
 
 ## 24. The Four C's of Leverage

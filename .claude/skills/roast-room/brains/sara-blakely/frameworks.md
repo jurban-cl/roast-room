@@ -73,7 +73,7 @@ Built from 33 public sources (keynotes, long interviews, podcasts, and a commenc
 - **Parts:** Find the actual buyer's name; call repeatedly with no message; win over gatekeepers; ask for an in-person meeting; expect a long run of rejections and treat each as progress.
 - **When to use:** Getting into retail, finding a manufacturer, or any first big customer.
 - **How to score:** High if the founder has personally reached the decision maker; low if the plan waits on trade shows, intermediaries, or inbound interest.
-- **Quote:** "you have to have a certain amount of no's to get to the yes" (S033)
+- **Quote:** "you have to have a certain amount of no's to get to the yes" (S015)
 - **Sources:** 11 (S001, S006, S007, S014, S015, S018, S019, S020, S024, S030, S033)
 
 ## 10. Input, then gut, then a sign (her decision loop) *(unnamed)*

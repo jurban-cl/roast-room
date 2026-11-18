@@ -187,7 +187,7 @@ Built from the batch 01 to 05 notes over 33 sources (an early-2000s radio interv
 - Themed weekdays to keep context, though the days shift between tellings: Thursday is product day in 2020 (S007), Wednesday in 2023 (S018), Monday in 2024 (S027).
 
 ## Selling the company
-- **Earlier:** no plan, just a joke. "my exit strategy is I want to exit a room and look good" (S016, 2018-04)
+- **Earlier:** no plan, just a joke. "my exit strategy is I want to exit a room and look good" (S004, 2018-04)
 - **2021-11:** "i just always knew i would know and the time is now" (S021). She sold the majority (the host names Blackstone) and kept a stake.
 - **2024 to 2026 (newer):** the reason was mental share, not money. "I sold for this really the main reason was because I felt like 80% of my mental share for a very long time for two decades was on Spanx" (S005, 2024-11) "if I sell it, I have to sell the majority of it in order to achieve the mental share" (S003, 2026-10) "for me to achieve free mental share I knew I had to give up control which was hard" (S004, 2025-08)
 - Advice to sellers: "be very ready to let go of the outcome because I mean, you can't control the outcome" (S003) "you can make the right decision and still be sad" (S004)
