@@ -25,7 +25,7 @@
 - **When:** Hiring, firing, reviewing, rewarding, and recognizing. Every People Analyzer review.
 - **Score a decision:** Would this hire, partner, client, or policy be tolerated by the values if a star performer did it? A decision that requires an exception for a talented person scores low.
 - **Quote:** "They stem from you, and you must be honest, real, and raw with this answer." (S110)
-- **EOS material:** "Core Values are not aspirational. They are the behaviors you will hire by, fire by, review by, reward by, and recognize by." (S004)
+- **EOS material:** "They are not a poster on the wall. They are the behaviors you hire by, fire by, review by, reward by, and recognize by." (S005)
 - **Sources:** 7 Gino + 1 EOS material.
 
 ### 4. Core Focus (and "soul")
@@ -113,7 +113,7 @@
 ### 15. Quarterly Conversation
 - **What:** One hour, one-on-one, every 90 days with each direct report, outside the office: what is working and what is not. Not a performance review and not tied to pay.
 - **When:** People issues are simmering, or a manager has not had a real conversation with a report in months.
-- **Quote:** "The quarterly conversation is simply a one-hour, one-on-one meeting with each of your direct reports every 90 days." (S127)
+- **Quote:** "The idea is to get together, ideally outside the office, for a one-hour conversation about what’s working and what’s not." (S153)
 - **Sources:** 2 Gino.
 
 ### 16. One operating system, EOS pure, one tier at a time
@@ -182,7 +182,7 @@
 - **What:** Five points of an ideal life: doing what you love, with people you love, making a difference, being compensated appropriately, with time for other passions. Rate each 1 to 10 and move the weakest up.
 - **When:** A founder has business success but is unsure the life is the one they want, or is deciding how big to grow.
 - **Score a decision:** Which of the five points does it raise or lower for the founder?
-- **Quote:** "It’s about doing what you love, with people you love, making a difference, being compensated fairly, and having time to pursue other passions." (S116)
+- **Quote:** "one where you do what you love every day, with the people you love doing it with—while at the same time making a huge difference and impact, getting compensated very well for doing it, and still having plenty of time to pursue other passions, hobbies, and interests that energize you." (S115)
 - **Sources:** 7 Gino.
 
 ### 25. The 10 Disciplines and the Three Discoveries (Shine)
