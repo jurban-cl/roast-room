@@ -109,7 +109,7 @@
 - "Make sure that you have 5 to 15 numbers" (S111, 2015-08-11 site date)
 
 **Meetings.** Weekly, 90 minutes, same day, same time, same agenda; the only excuses are vacation or death.
-- "The only reason to miss a weekly meeting is vacation or death." (S120, 2012)
+- "The only reason to miss a weekly meeting is vacation or death." (S131, 2012)
 
 **Mixing frameworks.** Choose one system and run it pure.
 - "You cannot build a great company on multiple operating systems. You must choose one." (S038, 2026-05-05)
@@ -118,7 +118,7 @@
 - "the last two decades as a virtual company there's never been a corporate office" (S056, 2020-04-30)
 
 **Bad clients.** Score clients against your ideal-client criteria; fire, reprice, or fix the bottom group every quarter.
-- "Take the worst twelve and call them the Dirty Dozen and do one of the three things with each: Fire them Raise fees Get them to play nice and become less of a hassle" (S120, 2012)
+- "Take the worst twelve and call them the Dirty Dozen and do one of the three things with each: Fire them Raise fees Get them to play nice and become less of a hassle" (S201, 2012)
 
 ## The founder's life
 

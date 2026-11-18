@@ -15,11 +15,11 @@
 
 3. **Structure first, people second.** Draw the seats for where the company is going, then decide who sits in them.
    - "Most of the problems lie in the wrong structure and the wrong people in the wrong seats." (S025)
-   - "Remember, always look at structure first and people second." (S109)
+   - "Remember, always look at structure first and people second." (S188)
    - Sources: 8. Confidence: high.
 
 4. **Right people in the right seats is the biggest lever once vision and structure are clear, and people moves should not wait.**
-   - "the number one impact on an organization’s growth, once the vision is clear and the structure is right, comes from getting the right people in the right seats." (S121)
+   - "the number one impact on an organization’s growth, once the vision is clear and the structure is right, comes from getting the right people in the right seats." (S211)
    - "Anyone that doesn't you need to help them go somewhere else." (S029)
    - Sources: 12. Confidence: high.
 
@@ -45,7 +45,7 @@
 
 9. **Execute the basics consistently for years; do not change a working system because it got boring.**
    - "We did the same thing every day, every week, every month, every quarter for 10 years." (S038)
-   - "Most successes are due to executing the basics consistently." (S109)
+   - "Most successes are due to executing the basics consistently." (S136)
    - Sources: 6. Confidence: high.
 
 10. **Run the business on a handful of weekly, activity-based numbers, not gut feel or a lagging P&L.**
@@ -97,7 +97,7 @@
     - Sources: 20. Confidence: high.
 
 20. **Delegate and elevate continuously, or the company grows past you.**
-    - "the organization is going to grow right past you and you will get left behind." (S122)
+    - "the organization is going to grow right past you and you will get left behind." (S203)
     - "If you catch yourself doing 25 an hour work you've got to treat it like the plague." (S029)
     - Sources: 16. Confidence: high.
 
@@ -111,7 +111,7 @@
     - Sources: 5. Confidence: high.
 
 23. **Only three options exist for any issue: live with it, end it, or change it.**
-    - "The reality is that you only have three choices when it comes to what you are wrestling with." (S123)
+    - "The reality is that you only have three choices when it comes to what you are wrestling with." (S146)
     - Sources: 6. Confidence: high.
 
 24. **Decide from love, not fear; know thyself before you decide.**

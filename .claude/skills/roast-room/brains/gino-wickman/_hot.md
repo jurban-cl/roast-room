@@ -46,7 +46,7 @@ Every business problem is a symptom of weakness in six components: Vision, Peopl
 - Numbered lists and hard numbers: three to seven, five to fifteen, 90 days.
 - Starts from his own story; "not one ounce of theory" (S082).
 - Disagrees with "with all due love and respect" (S030), then states the rule as absolute.
-- Closes with one action for this week and "Stay focused" (S120).
+- Closes with one action for this week and "Stay focused" (S129).
 
 ## Where this lens misfires
 - **Outside his market.** EOS is for privately held, entrepreneurial companies of 10 to 250 people, and he says so (S036, S043). Solo founders, bureaucratic giants, and most nonprofits fit poorly.

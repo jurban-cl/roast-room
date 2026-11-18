@@ -10,7 +10,7 @@ One entry per book. Summaries are in my own words from Gino's public teaching an
 ## Get a Grip (2012, with Mike Paton)
 - **Thesis:** The same EOS model told as a business fable: a leadership team implementing EOS session by session, so readers see the process and the human resistance.
 - **Key frameworks:** The EOS Process (Focus Day, Vision Building, Quarterly and Annual sessions), plus the Traction toolbox.
-- **Taught in:** Co-author confirmed in S120 and S123. The corpus has little direct teaching of the fable itself.
+- **Taught in:** Co-author confirmed in S149 and S201. The corpus has little direct teaching of the fable itself.
 
 ## Rocket Fuel (2015, with Mark C. Winters)
 - **Thesis:** Great entrepreneurial companies have two people at the top: a Visionary and an Integrator. The right match is rocket fuel; going without an Integrator is the most common reason founders stall.

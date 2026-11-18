@@ -7,7 +7,7 @@
 ### 1. The Six Key Components (the EOS Model)
 - **What:** Every business has six components. Weakness in any one shows up as the dozens of symptoms founders complain about. Gino found that the 136 issues he kept hearing "kind of had six root causes" (S043).
 - **Parts:** Vision (everyone 100% on the same page about where you are going and how you get there), People (right people, right seats), Data (a handful of numbers for a weekly pulse), Issues (solve problems at the root so they go away forever), Process (core processes documented and followed by all), Traction (discipline and accountability that make the vision real).
-- **When:** Any time a business feels stuck, chaotic, or full of "separate" problems. In triage, start with People, Vision, and Traction (S125).
+- **When:** Any time a business feels stuck, chaotic, or full of "separate" problems. In triage, start with People, Vision, and Traction (S177).
 - **Score a decision:** Name which component the decision strengthens or weakens. A decision that fixes a symptom while leaving the root component weak scores low. A decision that adds a second operating system or more complexity scores low.
 - **Quote:** "Every business big or small any industry has six key components and to the degree you can strengthen those six key components everything just has a way of falling into place." (S064)
 - **Sources:** 11 Gino + 3 EOS material.
@@ -46,7 +46,7 @@
 - **What:** Who exactly you sell to (demographic, geographic, psychographic, with psychographic the most important), three things that make you different, a named proven process, and a guarantee.
 - **When:** Choosing a market, a channel, or a pitch; or when the team sells to "anyone."
 - **Score a decision:** Does it narrow focus on the ideal customer, or broaden it? Broadening scores low unless the core market is exhausted.
-- **Quote:** "Without this psychographic, we could target literally five times the companies that we do." (S124)
+- **Quote:** "Without this psychographic, we could target literally five times the companies that we do." (S139)
 - **Sources:** 5 Gino + 3 EOS material.
 
 ### 7. Rocks and the 90-Day World
@@ -67,7 +67,7 @@
 - **What:** Prioritize the top three issues, identify the real root, discuss once, solve with a To-Do and an owner, then confirm agreement ("Can you live with it?").
 - **When:** Every issue, idea, or opportunity the team faces.
 - **Score a decision:** Is the stated problem the root or a symptom? Is there an owner and a To-Do? If someone is quietly resisting, it is not solved.
-- **Quote:** "The only reason your lips are moving in the meeting is to get to a conclusion and decide, then move onto the next issue." (S121)
+- **Quote:** "The only reason your lips are moving in the meeting is to get to a conclusion and decide, then move onto the next issue." (S130)
 - **Quote:** "Tidy bow means when you're solving an issue, you got to put a tidy bow on it." (S038)
 - **Sources:** 11 Gino + 4 EOS material.
 
@@ -89,8 +89,8 @@
 - **What:** Right person means they share the Core Values. Right seat means they Get it, Want it, and have the Capacity to do it (all three yes). The People Analyzer scores both every quarter against The Bar. Core value violations get three meetings 30 days apart.
 - **When:** Every hire, promotion, and recurring people problem.
 - **Score a decision:** Run GWC on the person the decision depends on. Any "no" means the plan rests on the wrong seat.
-- **Quote:** "If any of the three are a “no,” that person is in the wrong seat. It’s very simple and very powerful." (S125)
-- **Quote:** "the number one impact on an organization’s growth, once the vision is clear and the structure is right, comes from getting the right people in the right seats." (S121)
+- **Quote:** "If any of the three are a “no,” that person is in the wrong seat. It’s very simple and very powerful." (S160)
+- **Quote:** "the number one impact on an organization’s growth, once the vision is clear and the structure is right, comes from getting the right people in the right seats." (S211)
 - **Sources:** 10 Gino + 5 EOS material.
 
 ### 13. Process: the 3-Step Process Documenter and Followed By All
@@ -130,7 +130,7 @@
 - **When:** The founder is drowning in managing people, or the company is stuck at a ceiling with the founder in both seats.
 - **Score a decision:** Who is the Integrator for this? If the answer is the founder, on top of everything, it scores low. Integrator hires: earlier is better, timing varies (one client waited until $100M).
 - **Quote:** "When a visionary entrepreneur is left on their own to build their organization without an integrator to counterbalance them there is chaos and rarely does the company ever grow to the next level." (S026)
-- **Quote:** "An organization has a Visionary about 50 percent of the time, and it must have an Integrator 100 percent of the time." (S126)
+- **Quote:** "An organization has a Visionary about 50 percent of the time, and it must have an Integrator 100 percent of the time." (S144)
 - **Sources:** 20 Gino + 2 EOS material.
 
 ### 18. Delegate and Elevate, Know Your 100%, and no $25-an-hour work
