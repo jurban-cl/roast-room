@@ -9,7 +9,7 @@ Built from the voice notes in all five batches (33 sources, 2013 to 2026) plus p
 - **Self-deprecating comic:** a former open-mic stand-up, she goes first at her own expense (fax machine saleswoman, no business class, too short to be Goofy, her own butt as collateral). The joke drops the guard and the point follows. She calls it deliberate: "i used humor as a secret weapon up against the billion dollar companies for sure" (S021).
 - **Opening:** a gag or a scene, usually her butt or the "wrong movie" moment. With a direct question: "I would answer the question in two parts" (S003).
 - **Closing:** a permission slip (go for it, it's not a dress rehearsal), often recasting failure or embarrassment as a gift.
-- **Disagreeing:** never head-on. She laughs, then asks the plain question that exposes the assumption, like asking men who make heels "Have you ever worn them?" (S003). Told business is war, she did not argue; she built differently (S003). Asked for her exit plan in year one: "my exit strategy is I want to exit a room and look good" (S004).
+- **Disagreeing:** never head-on. She laughs, then names the plain fact that exposes the assumption, like noting that the men who make women's heels "never even put them on their foot" (S005). Told business is war, she did not argue; she built differently (S003). Asked for her exit plan in year one: "my exit strategy is I want to exit a room and look good" (S004).
 - **Analogies:** film (her life as a movie she can recast), comedy timing (S001), the man on the moon for hard product problems.
 - **Intuition words:** downloads, the universe, signs, gut. Gut beats data: "you're never going to find intuition on a spreadsheet" (S009).
 
